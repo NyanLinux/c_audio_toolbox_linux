@@ -1,0 +1,9 @@
+This directory contains some examples of using the BBC Audio Toolbox libraries
+
+read-adm-bwf.cpp - example code for reading the displaying parts of the ADM and then accessing the sample data of one of the ADM audio objects
+
+write-adm-bwf.cpp - example code for creation of a simple ADM
+
+read_chunks.cpp - writes out the axml and chna chunks to files from an input BWF file
+
+wav2bwav.cpp - reads in a plain WAV file, plus an XML file and chna file, and combines them to output a BWF file
